@@ -40,7 +40,10 @@ Sou um analista de business intelligence JR com 2 anos de experiência na área 
 - **Storytelling com Dados**
 - **Relatórios e Dashboards**
 
----
+## 📚 Anotações de Estudo
+
+- Glossário SQL (PostgreSQL) (rascunho local): [`notes/sql-glossario-postgresql.md`](notes/sql-glossario-postgresql.md)
+- Guia para criar o **novo repositório privado**: [`CRIAR_REPO_PRIVADO_SQL.md`](CRIAR_REPO_PRIVADO_SQL.md)
 
 ## 🙋🏽 Vamos Conversar?
 
